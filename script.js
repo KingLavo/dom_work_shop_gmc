@@ -128,13 +128,6 @@ var likeBtn = document.querySelectorAll(".fa-heart")
             item.style.color = colors[colorIndex]
         })
     })
-    likeBtn.setAttribute("id", "oga")
-    console.log(likeBtn)
-        console.log("\t just queryselector")
-    var Btn = document.querySelector(".fa-heart")
-    Btn.setAttribute("class", "glory")
-    Btn.setAttribute("id", "oga")
-
-    console.log(Btn)
+   
 
  
